@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#101e32">
+  <title>Jeopardy · Host desk</title>
+  <link rel="stylesheet" href="/style.css">
+</head>
+<body>
+  <header class="topbar">
+    <a class="wordmark" href="/">J<span> / HOST DESK</span></a>
+    <span id="connection" class="status" role="status">Connecting…</span>
+  </header>
+  <main id="app"><div class="waiting">Connecting to the game server…</div></main>
+  <div id="error" class="error" role="alert" hidden></div>
+  <footer>PRIVATE CONTROL SURFACE <span>Keep this screen away from contestants.</span></footer>
+  <script src="/socket.io/socket.io.js"></script>
+  <script src="/shared/rules.js"></script>
+  <script src="/app.js"></script>
+</body>
+</html>

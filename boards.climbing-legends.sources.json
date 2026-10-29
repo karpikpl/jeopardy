@@ -1,0 +1,90 @@
+{
+  "board": "boards.climbing-legends.csv",
+  "checked": "2026-10-27",
+  "host_notes": [
+    "All tolerances are inclusive and are judged by the host, not automatically.",
+    "Oriane's question asks for her winning final score, not the minimum score that would beat second place.",
+    "Janja's career-gold question counts individual Lead and Boulder event wins across the World Cup and its renamed World Climbing Series through the end of the 2026 season, not World Championships, Olympics or overall season titles. The reported total is 52 (34 Lead and 18 Boulder); accept 50, 51 or 52 as requested.",
+    "The speed-record question is anchored to Sam Watson's Bali 2025 performance rather than claiming a permanently current record.",
+    "Half Dome's question asks for its approximate rise above the Yosemite Valley floor, not sea-level elevation or the length of a climbing route. Use about 4800 feet and accept 4700 through 4900 inclusive; NPS describes the rise as nearly 5000 feet.",
+    "Pilot Mountain's 151 is Mountain Project's Total Climbs figure for the specified area and date, including boulders. Route-type subtotals overlap and must not be added.",
+    "CDUL is Continental Divide Ultimate Linkup. Changing Corners is a pitch of The Nose, not a boulder problem.",
+    "The CDUL summits question accepts 14 through 20 inclusive: 17 summits with a tolerance of plus or minus 3.",
+    "Image credits and separate image-license terms are in images/climbing-legends/credits.json. The supplied Changing Corners photo is not covered by the project's MIT license."
+  ],
+  "sources": [
+    {
+      "topics": ["Miho Nonaka, women's combined silver at Tokyo 2020, held in 2021"],
+      "urls": ["https://www.sport-histoire.fr/en/Sport/Summer-Olympics/Tokyo-2020/sport-climbing.php"]
+    },
+    {
+      "topics": ["Oriane Bertone, Salt Lake City October 2026, 84.6 points"],
+      "urls": [
+        "https://arkose.com/en/groupe/actus/oriane-bertone-gagne-la-derniere-coupe-du-monde-de-bloc-de-2026",
+        "https://www.ffme.fr/aux-etats-unis-oriane-bertone-retrouve-la-victoire-en-coupe-du-monde/"
+      ]
+    },
+    {
+      "topics": ["Janja Garnbret, 52 career World Cup / World Climbing Series event golds at the end of 2026", "34 Lead and 18 Boulder wins"],
+      "urls": [
+        "https://gripped.com/news/janja-garnbret-wins-52nd-world-cup-gold-medal/",
+        "https://www.planetmountain.com/en/news/competitions/janja-garnbret-claims-historic-50th-gold-medal-innsbruck-climbing-world-cup.html"
+      ]
+    },
+    {
+      "topics": ["Pilot Mountain, 151 Total Climbs and North Carolina location"],
+      "urls": ["https://www.mountainproject.com/area/106039493/pilot-mountain"]
+    },
+    {
+      "topics": ["Half Dome, approximate height above the Yosemite Valley floor"],
+      "urls": ["https://www.nps.gov/yose/planyourvisit/formations.htm"]
+    },
+    {
+      "topics": ["Sam Watson, 4.64-second world record, Bali 2025"],
+      "urls": ["https://usaclimbing.org/news/sam-watson-sets-world-record-twice-wins-gold-medal-in-bali/"]
+    },
+    {
+      "topics": ["CDUL acronym", "17 summits", "2020 linkup", "2018 Nose time of 1:58:07"],
+      "urls": ["https://alpinist.com/newswire/alex-honnold-and-tommy-caldwell-complete-continental-divide-ultimate-linkup-in-rocky-mountain-national-park/"]
+    },
+    {
+      "topics": ["Honnold, Freerider free solo, 3 hours 56 minutes on June 3, 2017"],
+      "urls": ["https://www.nationalgeographic.com/adventure/article/most-dangerous-free-solo-climb-yosemite-national-park-el-capitan"]
+    },
+    {
+      "topics": ["Magnus Midtbo, dumbbell accident and broken thumb"],
+      "urls": ["https://sozai.app/transcript/quit-climbing/"]
+    },
+    {
+      "topics": ["Beth Rodden", "Meltdown", "Kyrgyzstan kidnapping in 2000"],
+      "urls": [
+        "https://en.wikipedia.org/wiki/Beth_Rodden",
+        "https://www.cbsnews.com/news/climbers-escape-rock-hard-place/"
+      ]
+    },
+    {
+      "topics": ["The Stonemasters"],
+      "urls": ["https://climbing-history.org/group/1"]
+    },
+    {
+      "topics": ["Alexander Megos", "first 9a onsight, Estado Critico"],
+      "urls": ["https://en.wikipedia.org/wiki/Alexander_Megos"]
+    },
+    {
+      "topics": ["Dawn Wall, Caldwell and Jorgeson, 19 days"],
+      "urls": ["https://www.planetmountain.com/en/news/climbing/tommy-caldwell-and-kevin-jorgeson-free-climb-the-dawn-wall-on-el-capitan.html"]
+    },
+    {
+      "topics": ["Burden of Dreams", "Nalle Hukkataival", "9A / V17", "2016"],
+      "urls": ["https://gripped.com/news/nalle-hukkataival-sends-first-ever-v17/"]
+    },
+    {
+      "topics": ["Janja Garnbret, six Boulder World Cup wins in 2019"],
+      "urls": ["https://gripped.com/news/janja-garnbret-is-first-ever-to-sweep-boulder-season/"]
+    },
+    {
+      "topics": ["Tommy Caldwell's 2017 memoir The Push"],
+      "urls": ["https://www.penguinrandomhouse.com/books/535150/the-push-by-tommy-caldwell/"]
+    }
+  ]
+}

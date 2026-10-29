@@ -1,0 +1,15 @@
+**
+!Dockerfile
+!package.json
+!package-lock.json
+!tsconfig.json
+!src/
+!src/**
+!public/
+!public/**
+!*.csv
+!*.sources.json
+!images/
+!images/**
+!LICENSE
+!README.md

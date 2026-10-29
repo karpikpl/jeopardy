@@ -1,0 +1,26 @@
+{
+  "name": "jeopardy-lan",
+  "version": "0.1.0",
+  "private": true,
+  "type": "commonjs",
+  "scripts": {
+    "build": "tsc",
+    "test": "npm run build && node --test tests/*.test.js",
+    "start": "node dist/server.js",
+    "dev": "node scripts/dev.js"
+  },
+  "dependencies": {
+    "better-sqlite3": "^11.10.0",
+    "csv-parse": "^5.6.0",
+    "express": "^4.21.2",
+    "socket.io": "^4.8.1"
+  },
+  "devDependencies": {
+    "@types/better-sqlite3": "^7.6.13",
+    "@types/express": "^4.17.21",
+    "@types/node": "^22.0.0",
+    "nodemon": "^3.1.10",
+    "socket.io-client": "^4.8.1",
+    "typescript": "^5.8.3"
+  }
+}

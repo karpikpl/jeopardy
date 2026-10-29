@@ -1,0 +1,62 @@
+round,category,value,clue,answer,daily_double
+jeopardy,SPACE,200,Our home planet is the third one from the Sun.,Earth,false
+jeopardy,SPACE,400,This red planet has moons named Phobos and Deimos.,Mars,false
+jeopardy,SPACE,600,This force keeps planets in orbit around the Sun.,Gravity,true
+jeopardy,SPACE,800,This planet is famous for its broad bright rings.,Saturn,false
+jeopardy,SPACE,1000,This galaxy contains our solar system.,The Milky Way,false
+jeopardy,IN THE KITCHEN,200,Water becomes this solid when frozen.,Ice,false
+jeopardy,IN THE KITCHEN,400,This utensil usually has four tines.,A fork,false
+jeopardy,IN THE KITCHEN,600,This ingredient makes bread dough rise by producing gas.,Yeast,false
+jeopardy,IN THE KITCHEN,800,This green fruit is mashed to make guacamole.,Avocado,false
+jeopardy,IN THE KITCHEN,1000,This cooking method gently heats food in water below a simmer.,Poaching,false
+jeopardy,ANIMALS,200,This striped big cat is the largest living cat species.,Tiger,false
+jeopardy,ANIMALS,400,This Australian marsupial carries its young in a pouch and hops.,Kangaroo,false
+jeopardy,ANIMALS,600,This egg-laying mammal has a duck-like bill.,Platypus,false
+jeopardy,ANIMALS,800,These insects communicate food locations using a waggle dance.,Honeybees,false
+jeopardy,ANIMALS,1000,This octopus relative has eight arms and two longer tentacles.,Squid,false
+jeopardy,WORD PLAY,200,This word for the opposite of cold rhymes with pot.,Hot,false
+jeopardy,WORD PLAY,400,This punctuation mark ends a direct question.,A question mark,false
+jeopardy,WORD PLAY,600,This four-letter word names both a tree covering and a dog's sound.,Bark,false
+jeopardy,WORD PLAY,800,This term describes a word that reads the same forwards and backwards.,Palindrome,false
+jeopardy,WORD PLAY,1000,This term means a word formed from the initial letters of a phrase.,Acronym,false
+jeopardy,ON THE MAP,200,This is the largest ocean on Earth.,Pacific Ocean,false
+jeopardy,ON THE MAP,400,This country has a maple leaf on its flag.,Canada,false
+jeopardy,ON THE MAP,600,This city is the capital of Japan.,Tokyo,false
+jeopardy,ON THE MAP,800,This river flows through Cairo.,The Nile,false
+jeopardy,ON THE MAP,1000,This imaginary line divides Earth into northern and southern hemispheres.,The equator,false
+jeopardy,GAMES AND SPORTS,200,This sport uses a hoop and a ball that players dribble.,Basketball,false
+jeopardy,GAMES AND SPORTS,400,This board game ends when a king is checkmated.,Chess,false
+jeopardy,GAMES AND SPORTS,600,This sport uses a shuttlecock.,Badminton,false
+jeopardy,GAMES AND SPORTS,800,This many rings appear in the Olympic symbol.,Five,false
+jeopardy,GAMES AND SPORTS,1000,This chess piece moves in an L shape.,Knight,false
+double_jeopardy,SCIENCE LAB,400,This chemical symbol represents oxygen.,O,false
+double_jeopardy,SCIENCE LAB,800,This organ pumps blood around the human body.,The heart,false
+double_jeopardy,SCIENCE LAB,1200,This process lets plants use sunlight to make sugars.,Photosynthesis,true
+double_jeopardy,SCIENCE LAB,1600,This particle has a negative electric charge.,Electron,false
+double_jeopardy,SCIENCE LAB,2000,This is the SI unit of electrical resistance.,Ohm,false
+double_jeopardy,PAST AND PRESENT,400,This ancient civilization built the pyramids at Giza.,Ancient Egypt,false
+double_jeopardy,PAST AND PRESENT,800,This invention made movable-type printing famous in fifteenth-century Europe.,Gutenberg's printing press,false
+double_jeopardy,PAST AND PRESENT,1200,This ocean was crossed by the Mayflower in 1620.,Atlantic Ocean,false
+double_jeopardy,PAST AND PRESENT,1600,This ancient city was buried by Mount Vesuvius in 79 CE.,Pompeii,false
+double_jeopardy,PAST AND PRESENT,2000,This 1215 English charter is often called the Great Charter.,Magna Carta,false
+double_jeopardy,MUSIC ROOM,400,This instrument commonly has 88 black and white keys.,Piano,false
+double_jeopardy,MUSIC ROOM,800,This musical term tells performers to become gradually louder.,Crescendo,false
+double_jeopardy,MUSIC ROOM,1200,This family of instruments produces sound through vibrating strings.,The string family,false
+double_jeopardy,MUSIC ROOM,1600,This is the number of semitones in an octave.,Twelve,false
+double_jeopardy,MUSIC ROOM,2000,This clef is commonly used for the lowest orchestral instruments.,Bass clef,false
+double_jeopardy,NUMBER SENSE,400,This is the sum of the interior angles of a triangle in degrees.,180,false
+double_jeopardy,NUMBER SENSE,800,This is the square root of 144.,12,false
+double_jeopardy,NUMBER SENSE,1200,This is the only even prime number.,2,false
+double_jeopardy,NUMBER SENSE,1600,This term describes a polygon with eight sides.,Octagon,true
+double_jeopardy,NUMBER SENSE,2000,This number is represented by the Roman numeral XL.,40,false
+double_jeopardy,NATURAL WORLD,400,This process changes liquid water into water vapor.,Evaporation,false
+double_jeopardy,NATURAL WORLD,800,This rock forms when lava or magma cools.,Igneous rock,false
+double_jeopardy,NATURAL WORLD,1200,This layer of gases surrounds Earth.,The atmosphere,false
+double_jeopardy,NATURAL WORLD,1600,This scale describes mineral hardness from talc to diamond.,Mohs scale,false
+double_jeopardy,NATURAL WORLD,2000,This biome has permafrost and very few trees.,Tundra,false
+double_jeopardy,AROUND THE HOUSE,400,This device measures temperature.,Thermometer,false
+double_jeopardy,AROUND THE HOUSE,800,This safety device detects smoke and sounds an alarm.,Smoke detector,false
+double_jeopardy,AROUND THE HOUSE,1200,This tool checks whether a surface is horizontal using a bubble.,Spirit level,false
+double_jeopardy,AROUND THE HOUSE,1600,This plumbing part beneath a sink holds water to block sewer gases.,A trap or P-trap,false
+double_jeopardy,AROUND THE HOUSE,2000,This device interrupts a circuit when current exceeds a safe level.,Circuit breaker,false
+final,GEOGRAPHY,,This ocean lies between Africa to its west and Australia to its east.,Indian Ocean,false

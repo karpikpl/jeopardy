@@ -1,0 +1,31 @@
+{
+  "board": "boards.climbing-legends.csv",
+  "images": [
+    {
+      "file": "el-capitan.jpg",
+      "title": "El Capitan en Californie",
+      "creator": "Clementp.fr (Clement Proust)",
+      "source": "https://commons.wikimedia.org/wiki/File:El_Capitan_en_Californie.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "changes": "Wikimedia thumbnail; no crop or other changes."
+    },
+    {
+      "file": "alexander-megos.jpg",
+      "title": "2022-08-12 European Championships 2022 - Sport Climbing Men's Lead by Sandro Halank-056",
+      "creator": "Sandro Halank, Wikimedia Commons",
+      "source": "https://commons.wikimedia.org/w/index.php?curid=122852558",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "changes": "None."
+    },
+    {
+      "file": "changing-corners.webp",
+      "title": "Changing Corners photo supplied by the game owner",
+      "source": "https://cdn.climbing.com/wp-content/uploads/2024/12/GettyImages-1224326343-1024x683.jpg?width=1080&auto=webp&quality=75&fit=cover",
+      "credit": "Getty Images / Climbing.com; photographer not verified.",
+      "license": "Third-party copyrighted image, not Creative Commons or MIT. The game owner confirms permission to redistribute this photo. No general downstream reuse license is asserted.",
+      "changes": "None; downloaded asset is WebP despite the source URL's .jpg suffix."
+    }
+  ]
+}

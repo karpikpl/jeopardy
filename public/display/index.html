@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#071545">
+  <title>Jeopardy · Live board</title>
+  <link rel="stylesheet" href="/style.css">
+</head>
+<body>
+  <div class="stage">
+    <header class="masthead">
+      <div class="identity">JEOPARDY<span>THE LIVING ROOM EDITION</span></div>
+      <div class="round-label" id="round-label">WELCOME TO GAME NIGHT</div>
+      <button id="fullscreen" class="utility" aria-label="Enter fullscreen">⛶</button>
+    </header>
+    <div class="play-area">
+      <main id="screen"><div class="intro"><span class="kicker">THE BOARD IS WARMING UP</span><h1>Game night.<br>Big questions.</h1><p>Connecting to the host…</p></div></main>
+      <section id="rules" class="rules-sheet" aria-label="Game rules" hidden></section>
+    </div>
+    <div id="timer" class="timer" role="timer" hidden></div>
+    <div id="podiums" class="podiums"></div>
+    <footer><span>THINK BIG. PLAY BOLD.</span><span id="connection" role="status">CONNECTING</span></footer>
+  </div>
+  <button id="audio-gate" class="audio-gate">Enable TV sound</button>
+  <div id="audio-error" role="alert" hidden></div>
+  <script src="/socket.io/socket.io.js"></script>
+  <script src="/shared/rules.js"></script>
+  <script src="/app.js"></script>
+</body>
+</html>

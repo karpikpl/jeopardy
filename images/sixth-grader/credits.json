@@ -1,0 +1,78 @@
+{
+  "board": "boards.sixth-grader.csv",
+  "note": "Photos and illustrations retain the individual licenses below; they are not covered by the application MIT license. Keep this attribution file with the images.",
+  "images": [
+    {
+      "file": "saturn.jpg",
+      "title": "File:Saturn during Equinox.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Saturn_during_Equinox.jpg",
+      "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Saturn_during_Equinox.jpg/1280px-Saturn_during_Equinox.jpg",
+      "creator_html": "<a href=\"https://en.wikipedia.org/wiki/National_Aeronautics_and_Space_Administration\" class=\"extiw\" title=\"w:National Aeronautics and Space Administration\">NASA</a> / <a href=\"https://en.wikipedia.org/wiki/Jet_Propulsion_Laboratory\" class=\"extiw\" title=\"w:Jet Propulsion Laboratory\">JPL</a> / <a href=\"https://en.wikipedia.org/wiki/Space_Science_Institute\" class=\"extiw\" title=\"w:Space Science Institute\">Space Science Institute</a>",
+      "credit_html": "<a rel=\"nofollow\" class=\"external free\" href=\"http://www.ciclops.org/view/5155/Saturn-Four-Years-On\">http://www.ciclops.org/view/5155/Saturn-Four-Years-On</a> <a rel=\"nofollow\" class=\"external free\" data-mw-original-href=\"http://www.nasa.gov/images/content/365640main_PIA11141_full.jpg\" href=\"https://www.nasa.gov/images/content/365640main_PIA11141_full.jpg\">http://www.nasa.gov/images/content/365640main_PIA11141_full.jpg</a> <a rel=\"nofollow\" class=\"external free\" data-mw-original-href=\"http://photojournal.jpl.nasa.gov/catalog/PIA11141\" href=\"https://photojournal.jpl.nasa.gov/catalog/PIA11141\">http://photojournal.jpl.nasa.gov/catalog/PIA11141</a>",
+      "license": "Public domain",
+      "license_url": null,
+      "attribution_html": null,
+      "changes": "Wikimedia thumbnail; no other changes."
+    },
+    {
+      "file": "full-moon.jpg",
+      "title": "File:FullMoon2010.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:FullMoon2010.jpg",
+      "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/FullMoon2010.jpg/1280px-FullMoon2010.jpg",
+      "creator_html": "Gregory H. Revera",
+      "credit_html": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "attribution_html": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Grevera&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Grevera (page does not exist)\">Gregory H. Revera</a>",
+      "changes": "Wikimedia thumbnail; no other changes."
+    },
+    {
+      "file": "heart.png",
+      "title": "File:Diagram of the human heart (no labels).svg",
+      "source": "https://commons.wikimedia.org/wiki/File:Diagram_of_the_human_heart_(no_labels).svg",
+      "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Diagram_of_the_human_heart_%28no_labels%29.svg/1280px-Diagram_of_the_human_heart_%28no_labels%29.svg.png",
+      "creator_html": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Stenemo&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Stenemo (page does not exist)\">Stenemo</a>",
+      "credit_html": "derivative work <a href=\"//commons.wikimedia.org/wiki/File:Diagram_of_the_human_heart_(cropped).svg\" title=\"File:Diagram of the human heart (cropped).svg\">Diagram of the human heart (cropped).svg</a>",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "attribution_html": null,
+      "changes": "Wikimedia PNG rendering of the original SVG; no other changes."
+    },
+    {
+      "file": "washington.jpg",
+      "title": "File:Gilbert Stuart Williamstown Portrait of George Washington.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg",
+      "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg/1280px-Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg",
+      "creator_html": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Gilbert_Stuart\" class=\"extiw\" title=\"w:en:Gilbert Stuart\"><span title=\"American painter (1755–1828)\">Gilbert Stuart</span></a></bdi>",
+      "credit_html": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.clarkart.edu/ArtPiece/Detail/George-Washington\">https://www.clarkart.edu/ArtPiece/Detail/George-Washington</a>",
+      "license": "Public domain",
+      "license_url": null,
+      "attribution_html": null,
+      "changes": "Wikimedia thumbnail; no other changes."
+    },
+    {
+      "file": "pyramids.jpg",
+      "title": "File:The Giza Pyramids (93631410).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:The_Giza_Pyramids_(93631410).jpg",
+      "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/The_Giza_Pyramids_%2893631410%29.jpg/1280px-The_Giza_Pyramids_%2893631410%29.jpg",
+      "creator_html": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/gracewong/\">Tommy Wong</a> <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:The_Giza_Pyramids_(93631410).jpg#P170\" title=\"Edit this at Structured Data on Commons\"><img alt=\"Edit this at Structured Data on Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+      "credit_html": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/gracewong/93631410/\">Flickr</a> <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:The_Giza_Pyramids_(93631410).jpg#P7482\" title=\"Edit this at Structured Data on Commons\"><img alt=\"Edit this at Structured Data on Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "attribution_html": null,
+      "changes": "Wikimedia thumbnail; no other changes."
+    },
+    {
+      "file": "south-america.png",
+      "title": "File:South America (orthographic projection).svg",
+      "source": "https://commons.wikimedia.org/wiki/File:South_America_(orthographic_projection).svg",
+      "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/South_America_%28orthographic_projection%29.svg/1280px-South_America_%28orthographic_projection%29.svg.png",
+      "creator_html": "<ul><li>derivative work: <a href=\"//commons.wikimedia.org/wiki/User:Luan\" title=\"User:Luan\">Luan</a>  by <b><a href=\"//commons.wikimedia.org/wiki/User:Luan\" title=\"User:Luan\">Luan</a></b> <span typeof=\"mw:File\"><a href=\"https://commons.wikimedia.org/w/index.php?title=User_talk:Luan&amp;action=edit&amp;section=new\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Tokyoship_Talk_icon.svg/20px-Tokyoship_Talk_icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"20\" height=\"20\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Tokyoship_Talk_icon.svg/40px-Tokyoship_Talk_icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"300\" data-file-height=\"300\"></a></span> <span typeof=\"mw:File\"><a href=\"https://pt.wikipedia.org/wiki/Usu%C3%A1rio_Discuss%C3%A3o:Luan\" title=\"pt:Usuário Discussão:Luan\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Tango_style_Wikipedia_Icon.svg/20px-Tango_style_Wikipedia_Icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"20\" height=\"20\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Tango_style_Wikipedia_Icon.svg/40px-Tango_style_Wikipedia_Icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"48\" data-file-height=\"48\"></a></span></li></ul>",
+      "credit_html": "This file was derived from:  <a href=\"//commons.wikimedia.org/wiki/File:Brazil_(orthographic_projection).svg\" title=\"File:Brazil (orthographic projection).svg\">Brazil (orthographic projection).svg</a>: <span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:Brazil_(orthographic_projection).svg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Brazil_%28orthographic_projection%29.svg/60px-Brazil_%28orthographic_projection%29.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"50\" height=\"50\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Brazil_%28orthographic_projection%29.svg/120px-Brazil_%28orthographic_projection%29.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"541\" data-file-height=\"541\"></a></span><br>",
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0",
+      "attribution_html": "<a href=\"//commons.wikimedia.org/wiki/User:Luan\" title=\"User:Luan\">Luan</a>",
+      "changes": "Wikimedia PNG rendering of the original SVG; no other changes."
+    }
+  ]
+}

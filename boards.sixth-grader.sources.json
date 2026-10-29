@@ -1,0 +1,37 @@
+{
+  "board": "boards.sixth-grader.csv",
+  "reviewed": "2026-10-28",
+  "notes": [
+    "Reviewed public sixth-grade Jeopardy boards for topic coverage and suitability for spoken game-show responses. No third-party board was copied or imported.",
+    "Kept quick mental math rather than worksheet-style calculations. The six images are shown by the game; contestants do not draw anything.",
+    "Applied only the six image clues, three quick-math substitutions and new Final question approved by the game owner. All other questions remain unchanged.",
+    "This is a mixed-subject party board at roughly sixth-grade difficulty, not a fully aligned or certified Grade 6 assessment.",
+    "Image files are local for offline play. Original authors, source pages, individual licenses and changes are recorded in images/sixth-grader/credits.json. They are not covered by the application MIT license."
+  ],
+  "comparison_boards": [
+    "https://jeopardylabs.com/play/6th-grade-test-review-mixed-up-267",
+    "https://jeopardylabs.com/play/6th-grade-math-review-2343",
+    "https://jeopardylabs.com/play/6th-grade-eoy-review-105",
+    "https://jeopardylabs.com/play/6th-grade-fun-jeopardy-222",
+    "https://jeopardylabs.com/play/are-you-smarter-than-a-sixth-grader-51",
+    "https://jeopardylabs.com/play/are-you-smarter-than-a-sixth-grader"
+  ],
+  "educational_references": [
+    {
+      "topic": "Grade 6 mathematics topic coverage",
+      "url": "https://www.thecorestandards.org/Math/Content/6/introduction/"
+    },
+    {
+      "topic": "Moon phases",
+      "url": "https://science.nasa.gov/moon/moon-phases/"
+    },
+    {
+      "topic": "Final answer: Mercury has no moons",
+      "url": "https://science.nasa.gov/mercury/facts/"
+    },
+    {
+      "topic": "Final answer: Venus is the other planet without a natural moon",
+      "url": "https://science.nasa.gov/venus/venus-facts/"
+    }
+  ]
+}
